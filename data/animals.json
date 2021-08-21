@@ -153,6 +153,15 @@
         ""
       ],
       "id": "15"
+    },
+    {
+      "name": "Zebra",
+      "species": "Zebra",
+      "diet": "folivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "16"
     }
   ]
 }
